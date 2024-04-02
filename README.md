@@ -14,7 +14,7 @@
 
 캐글에 로그인하여, [캐글 계정 설정](https://www.kaggle.com/settings/account) 페이지로 이동합니다. 
 
-캐글 계정 설정 페이지의 API 영역으로 이동하여, [Create New Token] 버튼을 클릭하여 토큰을 생성합니다.
+캐글 계정 설정 페이지의 API 영역으로 이동하여, [Create New Token] 버튼으로 토큰을 생성합니다.
 
 ![kaggle.png](kaggle.png)
 
@@ -22,10 +22,10 @@
 
 생성된 토큰은 `kaggle.json` 파일로 제공됩니다.
 
-다운로드 받은 `토큰 파일(kaggle.json)`을 다음과 같은 경로로 이동합니다.
+다운로드 받은 `토큰 파일(kaggle.json)`을 캐글 설정 경로로 이동합니다.
 
 **Windows**
-> C:\Users\<Windows-username>\.kaggle\kaggle.json
+> C:\Users\\\<Windows-username\>\\.kaggle\kaggle.json
 
 **MacOS / Linux**
 > ~/.kaggle/kaggle.json
@@ -50,7 +50,7 @@ kaggle datasets download -d s076923/pytorch-transformer
 
 Kaggle API를 통해 데이터세트를 다운로드 받을 수 있습니다.
 
-구글 코랩(Google Colaboratory)의 경우, [colab-datasets-download.ipynb](https://github.com/wikibook/pytorchtrf/blob/main/colab-datasets-download.ipynb) 파일에서 확인해보실 수 있습니다.
+구글 코랩(Google Colaboratory)의 경우, [colab-datasets-download.ipynb](https://github.com/wikibook/pytorchtrf/blob/main/colab-datasets-download.ipynb) 파일에서 수행 방법을 확인해볼 수 있습니다.
 
 ## Notice
 
