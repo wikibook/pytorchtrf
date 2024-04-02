@@ -2,6 +2,11 @@
 
 ![pytorch.jpg](pytorch.png)
 
+- 책의 기준 경로는 `pytorchtrf` 디렉터리입니다.
+ -일부 예제는 이전 예제에서 생성된 데이터나 모델을 활용합니다.
+- 데이터셋은 `datasets` 디렉터리에 있다고 가정합니다.
+- 모델은 `models` 디렉터리에 있다고 가정합니다.
+
 ## Datasets
 
 이 책에서 사용된 데이터세트는 [캐글](https://www.kaggle.com/datasets/s076923/pytorch-transformer)에서 다운로드할 수 있습니다.
