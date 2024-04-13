@@ -173,7 +173,7 @@ multi30k.URL["test"] = "https://raw.githubusercontent.com/neychev/small_DL_repo/
 
 ## Contacts
 
-- 윤대희 : [s076923@gamil.com](mailto:s076923@gmail.com)
+- 윤대희 : [s076923@gmail.com](mailto:s076923@gmail.com)
 - 김동화 : [dhcycle25@gmail.com](mailto:dhcycle25@gmail.com)
 - 송종민 : [whdwhd93@naver.com](mailto:whdwhd93@naver.com)
 - 진현두 : [gusen0927@gmail.com](mailto:gusen0927@gmail.com)
