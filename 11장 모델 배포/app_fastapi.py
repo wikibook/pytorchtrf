@@ -17,7 +17,7 @@ class VGG16Model:
                 transforms.ToTensor(),
                 transforms.Normalize(
                     mean=[0.48235, 0.45882, 0.40784],
-                    std=[1.0 / 255.0, 1.0 / 255.0, 1.0 / 255.0]
+                    std=[0.229, 0.224, 0.225]
                 )
             ]
         )
